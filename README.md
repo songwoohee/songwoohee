@@ -1,9 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=180&text=WOOHEE'S%20GITHUB&animation=twinkling&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=f9d7e6&height=180&text=WOOHEE'S%20GITHUB&animation=twinkling&fontColor=000000&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋🏻 Introduction  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 안녕하세요! 풀스택 개발자를 꿈꾸고 있는 송우희 입니다 </li><li> 새로운 기술에 대한 탐구와 도전을 즐기며 협업을 통해 함께 성장하는 것을 중요하게 생각하는 신입 개발자입니다</li><li> 함께 멋진 프로젝트를 만들 준비가 되었습니다 🤘🏻 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 안녕하세요! 풀스택 개발자를 꿈꾸고 있는 송우희 입니다 😁</li><li> 새로운 기술에 대한 탐구와 도전을 즐기며 협업을 통해 함께 성장하는 것을 중요하게 생각하는 신입 개발자입니다</li><li> 함께 멋진 프로젝트를 만들 준비가 되었습니다 🤘🏻 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -25,20 +25,22 @@
           <br/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-          </div>
+          </div> <br/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songwoohee&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://woohee92.notion.site/3528ef7989904af18ce272160c2bbfe1?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://woohee92.notion.site/3528ef7989904af18ce272160c2bbfe1?pvs=4"> </a>
-          </div>  <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📱Contact me </h2>
+        <a href="mailto:songwoohee@naver.com">
+  <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:songwoohee@naver.com" alt="Naver Badge">
+        </a>     <a style="text-align: left;"> <a href=https://woohee92.notion.site/3528ef7989904af18ce272160c2bbfe1?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://woohee92.notion.site/3528ef7989904af18ce272160c2bbfe1?pvs=4"> </a>
+          </a> 
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">  
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songwoohee&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> 
-<!--         <img src="https://github-readme-stats.vercel.app/api?username=songwoohee&show_icons=true&theme=radical"/>  -->
-        <img src="https://github-readme-stats.vercel.app/api?username=songwoohee&show_icons=true&theme=transparent" /> </div> 
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=songwoohee&theme=vue" />
+        <img src="https://github-readme-stats.vercel.app/api?username=songwoohee&show_icons=true&theme=radical"/> 
+<!--         <img src="https://github-readme-stats.vercel.app/api?username=songwoohee&show_icons=true&theme=transparent" />  -->
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=songwoohee&theme=vue" /> </div> 
     </div>
     
