@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&text=💻%20👀%20🛠️&animation=twinkling&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=180&text=WOOHEE'S%20GITHUB&animation=twinkling&fontColor=000000&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋🏻 Introduction  </h2>  
@@ -37,10 +37,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">  
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songwoohee&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> 
-        <img src="https://github-readme-stats.vercel.app/api?username=songwoohee&show_icons=true&theme=radical"/> </div> 
-<!--         <img src="https://github-readme-stats.vercel.app/api?username=songwoohee&show_icons=true&theme=transparent" /> -->
-
-
-        
+<!--         <img src="https://github-readme-stats.vercel.app/api?username=songwoohee&show_icons=true&theme=radical"/>  -->
+        <img src="https://github-readme-stats.vercel.app/api?username=songwoohee&show_icons=true&theme=transparent" /> </div> 
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=songwoohee&theme=vue" />
     </div>
     
